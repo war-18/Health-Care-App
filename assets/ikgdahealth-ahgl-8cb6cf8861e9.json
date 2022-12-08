@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ikgdahealth-ahgl",
+  "private_key_id": "8cb6cf8861e925064f2e721389544d9e1e2416ab",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFka8DnEhD3VDU\nk7Q79hi6kroQLLio2mIyfDUpuFyCwSlERx4Ia9z2Psrq1apH9jU7u6/TibIzl/Bl\nRkvC9+FhV8SBHFqijW9IPZw4r1EiEtdILmuxZX1+7u/OEIxGupLie/leC0LAbcJQ\nRbBEW5RLfRaAcKwhQ8J6J/8a9DNrXYMsgDcHrdyFe5JOMLKZiYYPyC3jZlzUvR/o\nGojve7Wb+UT7Ioi0pB8oBm8XhMbfELluxxEiZttyH7dTBs+xHzvxcPS8TAIl7Smt\n+zqO1gnYZWnjvXdJuAjd8aMARgkTu0PvAxr05Nqv2NbKyaEUIHqZrbY6BAOYUwkH\n7Bp80OGZAgMBAAECggEATxfR/TuJEKYesGOLQX/1iWepFkWZDXwT2Msxy0hzvKLQ\nvvVLmCp6VJhxys6L83AlAotSSfjzfsUiZ6DbPqvWrg4hbGCqBi5h8QU9L9I7xEzP\no6V11phfQ7wrA49LYRtbJ1FjVNtkNz4ZjuI/PTZ+aTQkGHpC5rRGPHobnjJKDX43\nhEZqYJiUWnJUw2jER9YYuRDP1TSNM673jFAAyZvE0D9GN84SqxUtXXpPEkhqNG+S\nJ2tV/wcHUMO1N8gMo0mdIvwOuJp2QwYc/kQrdKuDMRGOvUXrCe77Lt5kEGO0WJla\nadQ1mOynFqN53OdCTomt3KN2qCnaR3Gut++hC/PZCwKBgQDquyFt5UhnmIyzWsok\nRlujJ88WTQMxZ9mezJu2uyNp8xGjgxkvi3kiR5j2TXrOUGMZ5hdP63BRaO9QkePu\nJ0ze6kp+MYFDdEuMheg++t+b5lZd4gX9lfKU7tbmjaEMHK0fn2EEqOUKAXLgeFiE\n4Vy7+7uUKmHLhPvsFYzs0/IqlwKBgQDXeImogCkUFUS0ZruW/4y+CUZRbJy5fGQ8\nftq/3UYyQtiwB/IQANFVGz+XkWq5tN2xL2bMq9UBKn7nmxqrwxXgJZsnl+2zvIgS\n4DgVRBHAZQ/akA+cZqdL5p6h5mxUWq+kLNUKe/bWliVJBuTcMRYkVbLpd4fFrUm7\n7YOblzDLTwKBgAyRam/M5/yMAXSU9t/MWJm6xu7FvtcFXXSQNgIpsPK6TgZ4PX/7\nMsgwFzOQ4HNtgHDhjfv8ei4RtUaWGSMmPYpt9wEcu3QWJPloLhA5NIHPam5qbLGw\nNqXcx+reSHIykt5vlS0/scvAWhtEtlCfFG0IRHnhbw0LmMWCPeJsUroPAoGBAJnj\nNr2nOq9jOTx2msePIB+hVB1XKt+2nYgvOWAKUtYWs9eU9SbEzryvx00iyEx1hlfD\nePH4TxqUFSqotfWyUO9TLGqssVHK9ow0oxldEiiMhTQd62hSUG1++hC7FudwFT11\n33mra3F6ropnaBBy5lNw+WSQv+FIj/6t9W6sHmc1AoGBALjIaB3sUYY32wTJ+8tF\nXcMerxJzbcbbn2R9ufR7kEYclsdt3jpgnBZhHRKqUb/B+34CzZPGQM4o2HdjXtMQ\nIyOLM74RO6H14ZaJRsfpw1xWhRKgvJrndyfszmjgJeWeoFCtyWcAO+JoanvLiMyR\nIQ0s41g1H5DrKuDfJRvfyfMJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "flutter-dialogflow@ikgdahealth-ahgl.iam.gserviceaccount.com",
+  "client_id": "104917523061527944069",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/flutter-dialogflow%40ikgdahealth-ahgl.iam.gserviceaccount.com"
+}
